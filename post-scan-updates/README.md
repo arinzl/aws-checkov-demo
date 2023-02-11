@@ -1,7 +1,10 @@
 # Installation of IaC  
 
+Please see https://devbuildit.com/2023/02/06/security-checking-aws-infrastructure-code-before-deployment-with-checkov/ for detailed explaination.
+
 ## Requirements:
-Terraform CLI installed with access to your target AWS account
+- Terraform CLI installed with access to your target AWS account
+- Checkov installed as detailed on https://checkov.io
 
 ## Deployment
 - Clone repo into a source folder
